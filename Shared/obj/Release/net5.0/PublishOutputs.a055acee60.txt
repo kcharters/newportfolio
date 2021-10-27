@@ -1,3 +1,0 @@
-C:\Users\kchar\OneDrive\Documents\Projects\newportfolio\release\newportfolio.Shared.dll
-C:\Users\kchar\OneDrive\Documents\Projects\newportfolio\release\newportfolio.Shared.deps.json
-C:\Users\kchar\OneDrive\Documents\Projects\newportfolio\release\newportfolio.Shared.pdb
