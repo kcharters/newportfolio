@@ -4,7 +4,7 @@ commands
 ------------
 * dotnet new blazorwasm --hosted
 * cd Server
-* dotnet publish -c Release
-* tree .\bin\Release\net5.0\publish\wwwroot 
+* dotnet publish -c Release -o release/wwwroot
 
-...Standalone deployment assets are published into the /bin/Release/{TARGET FRAMEWORK}/publish/wwwroot folder.
+
+...Standalone deployment assets are sometimes published into the /bin/Release/{TARGET FRAMEWORK}/publish/wwwroot folder.
