@@ -1,0 +1,12 @@
+C:\Users\kchar\OneDrive\Documents\Projects\newportfolio\Shared\bin\Release\net5.0\newportfolio.Shared.deps.json
+C:\Users\kchar\OneDrive\Documents\Projects\newportfolio\Shared\bin\Release\net5.0\newportfolio.Shared.dll
+C:\Users\kchar\OneDrive\Documents\Projects\newportfolio\Shared\bin\Release\net5.0\ref\newportfolio.Shared.dll
+C:\Users\kchar\OneDrive\Documents\Projects\newportfolio\Shared\bin\Release\net5.0\newportfolio.Shared.pdb
+C:\Users\kchar\OneDrive\Documents\Projects\newportfolio\Shared\obj\Release\net5.0\newportfolio.Shared.csproj.AssemblyReference.cache
+C:\Users\kchar\OneDrive\Documents\Projects\newportfolio\Shared\obj\Release\net5.0\newportfolio.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kchar\OneDrive\Documents\Projects\newportfolio\Shared\obj\Release\net5.0\newportfolio.Shared.AssemblyInfoInputs.cache
+C:\Users\kchar\OneDrive\Documents\Projects\newportfolio\Shared\obj\Release\net5.0\newportfolio.Shared.AssemblyInfo.cs
+C:\Users\kchar\OneDrive\Documents\Projects\newportfolio\Shared\obj\Release\net5.0\newportfolio.Shared.csproj.CoreCompileInputs.cache
+C:\Users\kchar\OneDrive\Documents\Projects\newportfolio\Shared\obj\Release\net5.0\newportfolio.Shared.dll
+C:\Users\kchar\OneDrive\Documents\Projects\newportfolio\Shared\obj\Release\net5.0\ref\newportfolio.Shared.dll
+C:\Users\kchar\OneDrive\Documents\Projects\newportfolio\Shared\obj\Release\net5.0\newportfolio.Shared.pdb
