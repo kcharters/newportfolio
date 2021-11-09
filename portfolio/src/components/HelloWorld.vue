@@ -7,7 +7,7 @@
     <div class="section">
       <h1>About</h1>
       <p>Currently a Self Employed contractor for a IT consulting company in Sydney. 
-      I used to work in Hospitality until I decided I wanted a career change 4 years ago, now here I am with a Bachelor in IT.</p>
+      I used to work in Hospitality until I decided I wanted a career change 4 years ago, now here I am with a Bachelor in IT doing what I love.</p>
     </div>
 
     <div class="section">
